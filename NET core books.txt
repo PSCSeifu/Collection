@@ -1,0 +1,21 @@
+.NET Software Developer Core
+
+CLR via C#, 4th ed, Jeffery Richter, 2012
+C# in Depth,3rd/4th ed, Jon Skeet, 2013/2018
+C# 6.0 in a Nutshell, Joseph Albahari, 2015
+C# 6 Cookbook, Jay Hilyard,2015
+
+Pro ASP.NET Core MVC, Adam Freeman, 2016
+
+Javascript: The Good Parts, Douglas Crockford, 2008
+Javascript for Web Devleopers, Nicholas C.Zakas, 2012
+
+T-SQL Fundametnals, Itzik Ben-Gan, 2016
+
+Growing Object-Oriented Software, Steve Freeman, 2009
+Test Driven Development with C#, James Bender, 2011
+The Art of Unit Testing, Roy Osherove, 2013
+
+REST in Practive, Jim Webber, 2010
+Domain Driven Design, Scott Millet, 2015
+Adaptive Code, Gary McLean Hall, 2017
