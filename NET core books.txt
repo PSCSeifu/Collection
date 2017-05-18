@@ -16,6 +16,6 @@ Growing Object-Oriented Software, Steve Freeman, 2009
 Test Driven Development with C#, James Bender, 2011
 The Art of Unit Testing, Roy Osherove, 2013
 
-REST in Practive, Jim Webber, 2010
+REST in Practice, Jim Webber, 2010
 Domain Driven Design, Scott Millet, 2015
 Adaptive Code, Gary McLean Hall, 2017
